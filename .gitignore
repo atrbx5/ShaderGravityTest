@@ -1,0 +1,12 @@
+
+xcshareddata
+
+xcuserdata
+/Gantt (Autosaved).oplx/
+
+*.xcuserstate
+*.xcbkptlist
+*.DS_Store
+.project
+.settings
+Pods
